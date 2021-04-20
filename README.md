@@ -13,7 +13,6 @@ Jupyter Notebook
 ## Data Source
 [kaggle-Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 
-## Unable to open?
-### Click Here 👇
+## Project Link
 [covid19_analysis.ipynb](https://nbviewer.jupyter.org/github/apurvashivam08/covid_19-analysis/blob/master/covid19_analysis.ipynb)
 
